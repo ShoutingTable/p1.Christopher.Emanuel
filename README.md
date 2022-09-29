@@ -32,3 +32,7 @@ The elevator only provides feedback when arriving to the selected floor
 **Common Mistakes**
   - Not realize which floor you are going to (the star being the confusion)
 ![IMG_8656](https://user-images.githubusercontent.com/79831652/191893950-5c0794f9-f17f-4564-b4a3-8480ae0378ce.jpg)
+
+# Interface Gif
+
+![p1_Christopher_Emanuel_gif](https://user-images.githubusercontent.com/79831652/192912434-2f212747-081c-40d5-a2c1-db43511f969c.gif)
